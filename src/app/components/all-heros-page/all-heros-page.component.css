@@ -1,0 +1,43 @@
+table {
+  background-color: #fff;
+  margin: 0 !important;
+}
+table thead {
+  background-color: #f7f8f9 !important;
+  color: #adadad;
+  font-size: 14px;
+}
+th,
+td {
+  border-right: 1px solid #dee2e6 !important;
+  padding: 10px;
+}
+td {
+  font-weight: 500;
+  color: #9a9a9a;
+}
+nav {
+  background: #fff;
+  padding: 0 !important;
+}
+.headline {
+  width: 100px;
+  padding: 7px;
+  border-right: 1px solid #dee2e6;
+}
+h2 {
+  margin-bottom: 0;
+}
+.filters {
+  width: 28%;
+  padding: 12px;
+  margin-left: 2%;
+}
+.tableCont {
+  width: 70%;
+  padding-top: 12px;
+}
+.rightSide{
+  width: 30%;
+  display: flex;
+}
